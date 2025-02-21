@@ -13,4 +13,4 @@ Open seendgrid docs and collect api keys
 Paste and save the keys in SENDGRID_API_KEY
 Run flask run in cmd
 
-Note: You can moify app.py file schedule function to test different times.
+Note: You can modify app.py file schedule function to test different times.
